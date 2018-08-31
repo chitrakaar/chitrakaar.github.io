@@ -1,2 +1,2 @@
-# chitrakaar.github.io-
+# chitrakaar.github.io
 Testing static website
